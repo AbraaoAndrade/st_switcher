@@ -7,7 +7,11 @@ long_description = (this_directory / "README.md").read_text()
 
 setuptools.setup(
     name="st_switcher",
+<<<<<<< HEAD
     version="0.1.2",
+=======
+    version="0.1.1",
+>>>>>>> 9690356b121406f350a067c349d6e73f88962377
     author="Abraão Andrade",
     author_email="abraaolpandrade@gmail.com",
     description="Streamlit component that allows you to do X",
